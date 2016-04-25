@@ -1,5 +1,21 @@
 # Who is Hiring
 
+Submitters, Please be sure to fill out all of the fields in this template before creating a pull request:
+
+```
+### Company Name
+
+- Title: Job Title
+- Contact: @tech256 + email
+- URL: URL to Job Posting or Company
+- Location: City, State
+- Type: Combination of Fulltime, Part time, Remote, Interns
+
+Job Description (optional)
+```
+
+
+
 ## Design
 
 ### Archer Sparrow
@@ -10,12 +26,13 @@
 
 ## Developers
 
+#### NuSpatial
 
-### Geospatial/Robotics Software Engineer - NuSpatial
-- Contact: @mjcarroll
-- http://nuspatial.com
-- Huntsville, AL
-- Fulltime
+- Title: Geospatial/Robotics Software Engineer
+- Contact: @mjcarroll <michael@nuspatial.com>
+- URL: http://nuspatial.com
+- Location: Huntsville, AL
+- Type: Fulltime
 
 ### Kernel Developer - Raytheon
 - Contact: @noffke
